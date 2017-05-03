@@ -7,5 +7,7 @@ Instead of one bit of secret message, we applied images and treat its pixels as 
 Please refer to the file for the code :
 
 GFfuntion.cpp
+
 SScoefficient.cpp
+
 distribution.cpp
